@@ -21,6 +21,9 @@ class GameViewController: UIViewController {
         super.viewDidLoad()
         
         print("New print line")
+        
+        print("New print line")
+        print("New print line")
 
         // SKView behind start menu
         skView = SKView()
