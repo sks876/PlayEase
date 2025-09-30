@@ -19,6 +19,8 @@ class GameViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        print("New print line")
 
         // SKView behind start menu
         skView = SKView()
