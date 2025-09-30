@@ -25,6 +25,11 @@ class GameViewController: UIViewController {
         print("New print line")
         print("New print line")
 
+        
+        print("New print line")
+        print("New print line")
+        print("New print line")
+        print("New print line")
         // SKView behind start menu
         skView = SKView()
         skView.allowsTransparency = true
